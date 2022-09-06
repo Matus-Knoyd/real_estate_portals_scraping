@@ -1,2 +1,2 @@
-# real_estate_portals_scraping
+# Real estate portals scraping
 Free time project of real estate portals scraping
